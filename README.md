@@ -1,2 +1,2 @@
 # odin-recipes
-This project is a simple recipe website. I have added links to pages with three different recipes, each with its own image, description in a paragraph, ingredients in an unordered list, and steps in an ordered list.
+This project is a simple recipe website. I have added links to pages with three different recipes, eacgh with its own image, description in a paragraph, ingredients in an unordered list, and steps in an ordered list.
