@@ -3,6 +3,22 @@ body {
     color: white;
 }
 
+h1 {
+    text-align: center;
+}
+
 a {
     color: white;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 400px;
+    margin: 16px auto;
+}
+
+.content {
+    width: 400px;
+    margin: 16px auto;
 }
